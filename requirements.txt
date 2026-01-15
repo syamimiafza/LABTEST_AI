@@ -1,0 +1,11 @@
+streamlit
+numpy
+matplotlib
+torch
+torchvision
+Pillow
+requests
+pandas
+nltk
+PyPDF2
+pillow
